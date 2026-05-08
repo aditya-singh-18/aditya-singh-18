@@ -112,6 +112,9 @@ console.log("Let's build together! ");
 ### 🔥 GitHub Streak — Keep Coding, Keep Growing
 
 <img src="https://streak-stats.demolab.com?user=aditya-singh-18&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1F6FEB&ring=58A6FF&fire=FF7043&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" />
+<a href="https://takeuforward.org/profile/aditysingh18">
+  <img src="https://img.shields.io/badge/TakeUForward-A2Z%20DSA%20Sheet-blueviolet?style=for-the-badge&logo=bookstack&logoColor=white"/>
+</a>
 
 </div>
 
