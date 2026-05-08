@@ -112,9 +112,7 @@ console.log("Let's build together! ");
 ### 🔥 GitHub Streak — Keep Coding, Keep Growing
 
 <img src="https://streak-stats.demolab.com?user=aditya-singh-18&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1F6FEB&ring=58A6FF&fire=FF7043&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" />
-<a href="https://takeuforward.org/profile/aditysingh18">
-  <img src="https://img.shields.io/badge/TakeUForward-A2Z%20DSA%20Sheet-blueviolet?style=for-the-badge&logo=bookstack&logoColor=white"/>
-</a>
+
 
 </div>
 
@@ -162,10 +160,16 @@ console.log("Let's build together! ");
 
 <div align="center">
 
-> 🔥 Grinding **LeetCode** daily in **Java** — one problem at a time, consistency is the key!
+> 🔥 Grinding **LeetCode** && **TakeUForward** daily in **Java** — one problem at a time, consistency is the key!
 
 [![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fadityasingh_18&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/adityasingh_18/)
 
+
+<a href="https://takeuforward.org/profile/aditysingh18">
+  <img src="https://img.shields.io/badge/TakeUForward-DSA%20Sheet-blueviolet?style=for-the-badge&logo=bookstack&logoColor=white"/>
+</a>
+
+<img src="https://img.shields.io/badge/Problems%20Solved-146-58A6FF?style=for-the-badge&logo=checkmarx&logoColor=white"/>
 </div>
 
 ---
