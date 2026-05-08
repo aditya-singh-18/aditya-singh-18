@@ -42,7 +42,7 @@ const aditya = {
   achievement : "Gold Medalist 🥇 — Global Discovery Program, Parul University",
   challenge   : "Building production-grade systems that actually scale",
 
-  quote       : `"Part of the journey is the end." — Tony Stark ⚙️`,
+  quote       : `"Every end marks a new beginning."`,
 };
 
 console.log("Let's build together! ");
