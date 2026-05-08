@@ -45,7 +45,7 @@ const aditya = {
   quote       : `"Part of the journey is the end." — Tony Stark ⚙️`,
 };
 
-console.log("Let's build together! 🚀");
+console.log("Let's build together! ");
 ```
 
 ---
@@ -133,7 +133,7 @@ console.log("Let's build together! 🚀");
 
 | 🏗️ Project | 📝 Description | ⚡ Tech Stack | 🌐 |
 |---|---|---|---|
-| 🎓 **UniPro** | University Project Mgmt Platform serving **6,000+ students** & **30+ faculty** — RBAC, peer review, auto mentor-matching with weighted scoring | `React` `Node.js` `PostgreSQL` `AWS EC2` `JWT` `Redis` | [GitHub](https://github.com/aditya-singh-18) |
+| 🎓 **UniPro** | University Project Mgmt Platform serving **6,000+ students** & **30+ faculty** — RBAC, peer review, auto mentor-matching with weighted scoring | `React` `Node.js` `PostgreSQL` `TypeScript` `RestAPI` `JWT` `Redis` | [GitHub](https://github.com/aditya-singh-18/Unipro) |
 | 🌾 **KrishiYantra** | Blockchain-backed Farm-to-Consumer marketplace with transparent farm-gate pricing & Spring Boot pricing microservice *(In Development)* | `React Native` `Spring Boot` `Node.js` `PostgreSQL` `Redis` | [GitHub](https://github.com/aditya-singh-18) |
 | 🔍 **Fraud Detection API** | Rule-based fraud detection with **Kafka** async ingestion, **Redis** caching & GraphQL. **12+ fraud rules** covered with JUnit 5 TDD | `Java` `Spring Boot` `Kafka` `Redis` `GraphQL` `JUnit 5` | [GitHub](https://github.com/aditya-singh-18) |
 
