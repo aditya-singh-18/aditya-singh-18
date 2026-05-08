@@ -182,10 +182,6 @@ console.log("Let's build together! ");
 | ☁️ | **AWS Academy Graduate** — AWS Academy Cloud Foundations |
 | 🤖 | **AI Fundamentals** — IBM SkillsBuild Certified |
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=aditya-singh-18&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7" />
-
 </div>
 
 ---
