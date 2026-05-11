@@ -9,7 +9,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+Open+Source+Contributor;Backend-Focused+%7C+Java+%2B+Spring+Boot;Building+Scalable+APIs+%26+Microservices+%F0%9F%9A%80;Practicing+DSA+in+Java+%F0%9F%A7%A0;Top+5%25+%E2%80%94+Parul+University+Gold+Medalist+%F0%9F%A5%87;Keep+coding,+keep+growing!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+Open+Source+Contributor;Backend-Focused+%7C+Java+%2B+Spring+Boot;Building+Scalable+APIs+%26+Microservices+%F0%9F%9A%80;Practicing+DSA+in+Java+%F0%9F%A7%A0;Keep+coding,+keep+growing!" alt="Typing SVG" />
 
 <br/>
 
@@ -132,11 +132,10 @@ console.log("Let's build together! ");
 
 <div align="center">
 
-| 🏗️ Project | 📝 Description | ⚡ Tech Stack | 🌐 |
+|  Project |  Description |  Tech Stack | Links |
 |---|---|---|---|
-| 🎓 **UniPro** | University Project Mgmt Platform serving **2000,+ students** & **300+ faculty** — RBAC, peer review, auto mentor-matching with weighted scoring | `React` `Node.js` `PostgreSQL` `TypeScript` `RestAPI` `JWT` `Redis` | [GitHub](https://github.com/aditya-singh-18/Unipro) |
-| 🌾 **KrishiYantra** | Blockchain-backed Farm-to-Consumer marketplace with transparent farm-gate pricing & Spring Boot pricing microservice *(In Development)* | `React Native` `Spring Boot` `Node.js` `PostgreSQL` `Redis` | [GitHub](https://github.com/aditya-singh-18) |
-| 🔍 **Fraud Detection API** | Rule-based fraud detection with **Kafka** async ingestion, **Redis** caching & GraphQL. **12+ fraud rules** covered with JUnit 5 TDD | `Java` `Spring Boot` `Kafka` `Redis` `GraphQL` `JUnit 5` | [GitHub](https://github.com/aditya-singh-18) |
+| **UniPro** | Full-stack university project lifecycle platform with support for **2000+ concurrent users** — RBAC, peer review, real-time workflows, and automated mentor-matching with weighted skill scoring | `React` `Node.js` `PostgreSQL` `TypeScript` `REST API` `JWT` `Redis` | [GitHub](https://github.com/aditya-singh-18/Unipro) |
+| **KrishiYantra** | Blockchain-backed Farm-to-Consumer marketplace with transparent farm-gate pricing and Spring Boot-based recommendation microservice *(In Development)* | `React Native` `Spring Boot` `Node.js` `PostgreSQL` `Redis` | [GitHub](https://github.com/aditya-singh-18/KrishiYantra) |
 
 </div>
 
@@ -172,15 +171,15 @@ console.log("Let's build together! ");
 
 ---
 
-## 🏆 Achievements & Certifications
+## Achievements & Certifications
 
 <div align="center">
 
-| 🏅 | Achievement |
-|---|---|
-| 🥇 | **Gold Medalist (Rank 1)** — Global Discovery Program, Parul University |
-| ☁️ | **AWS Academy Graduate** — AWS Academy Cloud Foundations |
-| 🤖 | **AI Fundamentals** — IBM SkillsBuild Certified |
+| Achievement |
+|---|
+| **Gold Medalist (Rank 1)** — Global Discovery Program, Parul University |
+| **AWS Academy Graduate** — AWS Academy Cloud Foundations |
+| **AI Fundamentals** — IBM SkillsBuild Certified |
 
 </div>
 
@@ -190,7 +189,7 @@ console.log("Let's build together! ");
 
 <div align="center">
 
-> *"Part of the journey is the end."*
+> *"If not me, then who?."*
 >
 > **— Aditya Singh Rajput ⚙️**
 
