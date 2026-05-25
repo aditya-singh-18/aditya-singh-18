@@ -191,7 +191,7 @@ console.log("Let's build together! ");
 
 > *"If not me, then who?."*
 >
-> **— Aditya Singh Rajput ⚙️**
+> **Aditya Singh Rajput**
 
 </div>
 
@@ -215,6 +215,6 @@ console.log("Let's build together! ");
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
-**⭐ Star my repos if you find them useful! | © 2024 Aditya Singh • Built with ❤️**
+**⭐ Star my repos if you find them useful! | © 2024 Aditya Singh • Built with love**
 
 </div>
